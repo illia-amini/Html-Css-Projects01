@@ -1,4 +1,4 @@
-what is html?
+.what is html?
 1-Html = Hyper Text Markup languge.
 2-to create web.
 3-file.html.
@@ -6,8 +6,29 @@ what is html?
 
 <----===========------>
 
-what is tag?
-waht ever between < > </ > is defiened as tag.
+.what is tag?
+whatever between < > </ > is defiened as tag.
 ex => <p> Hello world! </p> , tag of paragraph.
+ex => <img src=''>. tag of image.
 
 <----===========------>
+
+.Main tags in Html.
+1-<!Doctype html> => Document type, means Html5 latest version of html,
+2-<html> => include all html tags code.
+3-<head> 
+4-<title> 
+5-<body> => include all tags 
+
+<----===========------>
+
+.Editor:
+Vs code: Visual stadio code.(Recommended)
+
+<----===========------>
+
+.Html Elements:
+1-Star & End tag:
+ex => <p> Hello world! </p>
+2-Empty tag:
+ex => <br> & <img>
