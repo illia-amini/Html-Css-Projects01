@@ -95,4 +95,20 @@ ex => <p> Hello <i> world !</i> </p>.
 it work like <i>,but it also emphsispn the word or tag,
 ex => <p> Hello <em> world !</em> </p>.
 
+8-<mark></mark>:
+it will mark our txt.
+ex => <p> Hello <mark> world !</mark> </p>.
+
+9-<small></small>:
+it will reduce the size of our txt.
+ex => <p> Hello <small> world !</small> </p>.
+
+10-<sub></sub>:
+it will use to sub our txt, normally use for chemctiry formula.
+ex => <p>H<sub>2</sub>O</p>.
+
+11-<sup></sup>:
+it will sup our txt, normally use for power or math formula,
+ex => <p>H<sup>2</sup>O</p>.
+
 <----===========------>
