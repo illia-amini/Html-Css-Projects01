@@ -126,6 +126,18 @@ whenever u wana copy paste excatly the same txt from other website u must use th
 this tag has an attribute name cite u solud fill the cite by the url link of the website which uve chossen to select,good for S.E.O.
 ex => <blockqoute cite=' Url address here '> Hello world !</blockqoute>
 
-15-
+15-<abbr></abbr>:
+whenever u hover the mouse it will subtitle the full name,used in info websites.
+it has an Attribute title='' u sholud fill with full name. 
+ex => <abbr title='Iran'>IR</abbr>
+
+16-<addresss></address>:
+if u want to mention ur adresss use this tag.
+ex => <addresss>Tehran,Iran</address>
+
+17-<bdo></bdo>:
+u can replace the words from end to start rtle to ltr.
+this tag has and attribute dir='' meansdirection u can maintion ltr or rtl.
+ex =><bdo dir='rtl'>This is a test</bdo>
 
 <----===========------>
