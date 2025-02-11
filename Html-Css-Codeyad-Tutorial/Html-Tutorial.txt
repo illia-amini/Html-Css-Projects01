@@ -46,3 +46,17 @@ Also u can customize ur tags by JQuery,
 
 <----===========------>
 
+.Tags:
+1-<h1:h6></h1:h6>: 
+Use as header of ur website.
+Affect on S.E.O of website, 
+***Do not use of tag <h1> more then once on ur page,***
+***Do not use of tag <h2> more then 3 times on ur page,***
+***Do not use of tag <h3> more then 6 times on ur page,***
+ex => <h1> Hello World ! </h1>
+ex => <h2> Hello World ! </h2>
+ex => <h3> Hello World ! </h3>
+.
+.
+.
+The size will be reduced.
