@@ -1,0 +1,13 @@
+what is html?
+1-Html = Hyper Text Markup languge.
+2-to create web.
+3-file.html.
+4-Included many Tag or element.
+
+<----===========------>
+
+what is tag?
+waht ever between < > </ > is defiened as tag.
+ex => <p> Hello world! </p> , tag of paragraph.
+
+<----===========------>
