@@ -32,3 +32,17 @@ Vs code: Visual stadio code.(Recommended)
 ex => <p> Hello world! </p>
 2-Empty tag:
 ex => <br> & <img>
+
+<----===========------>
+
+.Html Attribute:
+All Html tags can handle Attribute, 
+for ex: style='',name='',id='' and...
+*imp*
+for Star & End tags, u must give attribute to start tag,
+*imp*
+there are some by default attribute for tags.
+Also u can customize ur tags by JQuery,
+
+<----===========------>
+
