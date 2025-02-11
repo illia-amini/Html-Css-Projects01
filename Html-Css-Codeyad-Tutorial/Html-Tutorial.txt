@@ -77,4 +77,22 @@ Also (Enter),(Space),(New tab),... will be effected on this tag.
 use tag of <pre> = pre formater text
 ex =>  <pre> Hello world !</pre>
 
+.Text<formating>
+
+4-<b></b>:
+its a tag which will bold the txt.
+ex => <p> Hello <b> world !</b> </p>.
+
+5-<strong></strong>:(Recommended)
+its work as same as the tag of <b>, but it emphsis on chrome its an important tag,to search
+ex => <p> Hello <atrong> world !</strong> </p>.
+
+6-<i></i>:
+it will make our tag italic,
+ex => <p> Hello <i> world !</i> </p>.
+
+7-<em></em>:(Recommended)
+it work like <i>,but it also emphsispn the word or tag,
+ex => <p> Hello <em> world !</em> </p>.
+
 <----===========------>
