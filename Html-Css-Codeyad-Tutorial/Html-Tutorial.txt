@@ -171,4 +171,8 @@ for coords section and optimize the photo use optimize img for web online,
 ex => <img href='#' use map=#id >
 <map> <area shape= ' ur shape '  , href=' ur url adresss' , coords= ' x,y in start & x,y in end ' name='id' > </map>
 
+.Tabele<table>
+
+21-<table></table>:
+
 <----===========------>
