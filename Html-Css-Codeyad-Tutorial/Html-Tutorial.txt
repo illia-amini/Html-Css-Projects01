@@ -149,4 +149,14 @@ it will open the link on the same page,if u want to wheneer u click on it a new 
 this attribute is target=' ', by default it is (self), but u can change to (blank).it will open into new page. 
 ex => <p> Go to <a href=' URl address here ' target=' blank '>Codeyad</a></p>
 
+.imgages<img>
+
+19-<img>:
+via this tag u can bring a img into ur html doc.
+this tag is an empty tag include atribute of src and alt.
+src the address that photo saved and alt means alternative languge in the case of img will not open it will show the img,
+for src there are 2 ways,url address or save the pic in assect then import from it.
+if u want to leave it empty use #,
+ex => <img src='#' alt='#'>
+
 <----===========------>
