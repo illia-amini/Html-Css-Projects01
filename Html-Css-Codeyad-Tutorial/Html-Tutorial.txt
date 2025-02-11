@@ -145,6 +145,8 @@ ex =><bdo dir='rtl'>This is a test</bdo>
 18-<a></a>:
 it is used for mentioninig links on our website.
 it has attribute is href='',that the url address will mentioned on there.
-ex => <p> Go to <a href=' URl address here '>Codeyad</a></p>
+it will open the link on the same page,if u want to wheneer u click on it a new page or tab open u should give an attribut,
+this attribute is target=' ', by default it is (self), but u can change to (blank).it will open into new page. 
+ex => <p> Go to <a href=' URl address here ' target=' blank '>Codeyad</a></p>
 
 <----===========------>
