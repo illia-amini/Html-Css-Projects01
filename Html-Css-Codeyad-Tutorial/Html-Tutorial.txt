@@ -140,4 +140,11 @@ u can replace the words from end to start rtle to ltr.
 this tag has and attribute dir='' meansdirection u can maintion ltr or rtl.
 ex =><bdo dir='rtl'>This is a test</bdo>
 
+.Text<links>
+
+18-<a></a>:
+it is used for mentioninig links on our website.
+it has attribute is href='',that the url address will mentioned on there.
+ex => <p> Go to <a href=' URl address here '>Codeyad</a></p>
+
 <----===========------>
