@@ -157,6 +157,7 @@ this tag is an empty tag include atribute of src and alt.
 src the address that photo saved and alt means alternative languge in the case of img will not open it will show the img,
 for src there are 2 ways,url address or save the pic in assect then import from it.
 if u want to leave it empty use #,
-ex => <img src='#' alt='#'>
+use control + space to guide u to chosse ur file img,
+ex:img as link => <a href='#'><img src='#' alt='#'> </a>
 
 <----===========------>
