@@ -59,4 +59,22 @@ ex => <h3> Hello World ! </h3>
 .
 .
 .
-The size will be reduced.
+The size of font will be reduced.
+
+.Text<tags>
+
+2-<p></p>:
+use as Writing text in our document,Pargaph.
+will not effect (Enter),(Space),(New tab),...
+for new tab use <br>.
+lorem= writing by default text.
+ex => <p> lorem 5 </p> => will condructor 5 words.
+ex => <p> lorem*5 </p> => will condructor 5 lines.
+
+3-<pre></pre>:
+whenever u want to copy a doc from word or any txt doc with maintaining same shape and size.
+Also (Enter),(Space),(New tab),... will be effected on this tag.
+use tag of <pre> = pre formater text
+ex =>  <pre> Hello world !</pre>
+
+<----===========------>
