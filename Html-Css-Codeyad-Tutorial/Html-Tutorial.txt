@@ -115,4 +115,16 @@ ex => <p>H<sup>2</sup>O</p>.
 it will cross on the txt, normally use for discount option.
 ex => <p>H<del>2</del>O</p>.
 
+.Text<quetesion>
+
+13-<q></q>:
+whenever u want use the others words u solu use of these tags.
+ex => <q> Hello World!</q>
+
+14-<blockqoute></blockqoute>:
+whenever u wana copy paste excatly the same txt from other website u must use this tag.
+this tag has an attribute name cite u solud fill the cite by the url link of the website which uve chossen to select,good for S.E.O.
+ex => <blockqoute cite=' Url address here '> Hello world !</blockqoute>
+
+15-
 <----===========------>
