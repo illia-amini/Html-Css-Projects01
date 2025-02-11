@@ -167,7 +167,7 @@ it is used whenever i want to sperate each part of the photo, and create a link 
 thr tag of map has area tag that is empty tag,
 area tag has 3 attribute shape that u sholud choose a shpe recording to ur shape in website, href that url address, coords in x,y
 at the end u must link the tag of map to the tag of img, by attribute (name) in map and an attribute to img (use map) that  must be fill out by (#) and the name u define in (name) in map.
-
+for coords section and optimize the photo use optimize img for web online,
 ex => <img href='#' use map=#id >
 <map> <area shape= ' ur shape '  , href=' ur url adresss' , coords= ' x,y in start & x,y in end ' name='id' > </map>
 
