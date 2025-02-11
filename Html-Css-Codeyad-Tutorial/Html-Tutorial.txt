@@ -111,4 +111,8 @@ ex => <p>H<sub>2</sub>O</p>.
 it will sup our txt, normally use for power or math formula,
 ex => <p>H<sup>2</sup>O</p>.
 
+12-<del></del>:
+it will cross on the txt, normally use for discount option.
+ex => <p>H<del>2</del>O</p>.
+
 <----===========------>
