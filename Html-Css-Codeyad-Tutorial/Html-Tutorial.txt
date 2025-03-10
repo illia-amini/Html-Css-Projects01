@@ -174,11 +174,14 @@ ex => <img href='#' use map=#id >
 .Tabele<table>
 
 21-<table></table>:it creates an empty table in html,it does not consist of column and ...
-<tr></tr>;tabel row; to create row in in tabel.
-<td></td>;tabel body ;to create column in tabel.
-they come toghter forever,
-colsapn;to combine to column toghter u should use colspan attribute in tag td td,by default its is 1
-rowspan:to combine to row of table to eachother give to td,by default its is 1
+.<tr></tr>;tabel row; to create row in in tabel.
+.<td></td>;tabel body ;to create column in tabel.
+.<th></th>;table header; use for header cell, contains header info,for body and data cells use td,
+.<thead></thead>;use to group header content in an html table,
+.<tbody></tbody>;use to group body content
+.<tfoot></tfoot>;use to group footer content
+.colsapn;to combine to column toghter u should use colspan attribute in tag td td,by default its is 1
+.rowspan:to combine to row of table to eachother give to td,by default its is 1
 ex;
  <table>
       <tr>
@@ -194,7 +197,31 @@ ex;
         <td>row3-2</td>
       </tr>
     </table>
-
+ex;
+<table>
+  <thead>
+    <tr>
+      <th>Month</th>
+      <th>Savings</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>January</td>
+      <td>$100</td>
+    </tr>
+    <tr>
+      <td>February</td>
+      <td>$80</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td>Sum</td>
+      <td>$180</td>
+    </tr>
+  </tfoot>
+</table>
 <----===========------>
 
 .List<list>
