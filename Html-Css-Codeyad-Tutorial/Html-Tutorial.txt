@@ -427,3 +427,13 @@ ex;
         </table>
       </form>
     </fieldset>
+
+<----===========------>
+
+.Colors in html:
+
+1-CMYK; usually used in print. cmyk=(cyan,magenta,yellow,black) it has range between (0,100).
+2-RGB; the best option to use in website and px worlds, rgb=(red,gree,blue) it has a range betwenn (0,255).
+3-Hex decimal; whatever color u create it has a hex decimal code which its better to use in ur website, it use of alphabet and numbers.
+ex;
+hex code; # -- -- --;  it strats with #, number between 0 to 16, alphabet from a to z, first -- = for red color, second -- = for green color, third -- = for blue color,
