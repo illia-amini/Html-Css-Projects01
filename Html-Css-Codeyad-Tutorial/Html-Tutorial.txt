@@ -275,3 +275,18 @@ ex;
 </dl>
 
 <----===========------>
+
+.Typetag;
+
+.we have two type of tpe tag,
+1-inline tag; the tag that take as much as it has itself concept,like a span ...
+2-bock tag; the tag that take all of the row is a block tag,like p div ...
+
+<----===========------>
+
+.iframe;
+
+.whenever u use the other websites in ur website is called iframe,for ex when u use google map for ur adress is called iframe,
+<iframe></iframe>;it has a src attribut to get acess to the link to be able to show it, also u can style it.
+
+<----===========------>
