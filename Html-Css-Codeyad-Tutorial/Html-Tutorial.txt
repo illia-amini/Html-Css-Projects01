@@ -438,3 +438,22 @@ ex;
 hex code; # -- -- --;  it strats with #, number between 0 to 16, alphabet from a to z, first -- = for red color, second -- = for green color, third -- = for blue color,
 ***imp***
 Use safe color for ur website, 4 more info google it.
+
+<----===========------>
+
+.Command in html:
+
+.the concept which user cant see but developer
+how to?
+1.use command + / in ur keyborad to command
+2.use <!--> to command.
+
+<----===========------>
+
+.Head in html:
+
+.meta tags;
+1-First meta; for suupporting any languge
+2-Seconde met; for making ur website responsive
+3-<meta name='keywords' content='name'>; u can add attributname and keywords and content attribut to mark the keywords on ur webiste,
+4-<meta name='discription' content='name'>; u can add discription for ur website with this shape and write ur discription part on ur content
