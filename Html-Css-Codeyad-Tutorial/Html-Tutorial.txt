@@ -249,4 +249,29 @@ ex;
 
 .List<list>
 
+.we have 3 types of list
+.1-ordered list;numbred or named list whic is sorted,
+<ol></ol>:ordered list, also u sholud use <li></li> to create each peace of list,
+.ther is a type attribute u can use in li to change betwenn number or alphabet
+ex;
+ <ol type="I">
+      <li>ali</li>
+      <li>amini</li>
+</ol>
+
+.2-Unordered list;<ul></ul>; it wont give a number or alphabet next to ur li
+.it will add a . next to ur li, that u can change via css list-style 
+ex;
+<ul>
+      <li>reza</li>
+      <li>amini</li>
+</ul>
+
+.3-defienition list;<dl></dl>;it has <dt></dt> defintion title & <dd></dd> defeintion discription
+ex;
+<dl>
+      <dt>Html</dt>
+      <dd>css</dd>
+</dl>
+
 <----===========------>
