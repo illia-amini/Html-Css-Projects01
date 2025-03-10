@@ -173,7 +173,27 @@ ex => <img href='#' use map=#id >
 
 .Tabele<table>
 
-21-<table></table>:
+21-<table></table>:it creates an empty table in html,it does not consist of column and ...
+<tr></tr>;tabel row; to create row in in tabel.
+<td></td>;tabel body ;to create column in tabel.
+they come toghter forever,
+colsapn;to combine to column toghter u should use colspan attribute in tag td td,by default its is 1
+rowspan:to combine to row of table to eachother give to td,by default its is 1
+ex;
+ <table>
+      <tr>
+        <td colspan="2">row1-1</td>
+        <td>row1-2</td>//it will go to another column
+      </tr>
+      <tr>
+        <td>row2-1</td>
+        <td>row2-2</td>
+      </tr>
+      <tr>
+        <td>row3-1</td>
+        <td>row3-2</td>
+      </tr>
+    </table>
 
 .List<list>
 
