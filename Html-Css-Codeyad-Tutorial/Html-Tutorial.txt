@@ -303,5 +303,118 @@ ex;
  </form>
 
 .attribute in form & input & select and ...:
-.maxlength;the maxiumu length that an input can take
-.placeholder;what its wite in input as highlighted
+
+.1-maxlength( in input);the maxiumu length that an input can take
+.2-placeholder(in input);what its wite in input as highlighted
+.3-<fieldset></fieldset>;always put ur form tag in fieldset
+.4-<legend></legend>;write after fieldset and put ur name of form inside of it
+.5-(in )
+.6-(in )
+
+***imp***
+ex;
+<fieldset>
+      <legend>Form of Regesteration</legend>
+      <form action="">
+        <table style="width: 450px; border: solid gray" align="center">
+          <tr>
+            <td style="width: 150px">Username:</td>
+            <td>
+              <input
+                type="text"
+                name=""
+                id=""
+                maxlength="10"
+                size="20"
+                placeholder="Ex:Ali"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 150px">Password:</td>
+            <td>
+              <input
+                type="password"
+                name=""
+                id=""
+                size="20"
+                placeholder="Ex:1234"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 150px">Email:</td>
+            <td>
+              <input type="email name="" id="" size="20"
+              placeholder="Ex:Ali1234@gmail.com" />
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 150px" valign="top">Address:</td>
+            <td>
+              <textarea name="" id="" rows="10" cols="20"></textarea>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 150px" valign="top">Gender:</td>
+            <td>
+              <input type="radio" name="gender" />Male
+              <input type="radio" name="gender" />Female
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 150px" valign="top">City:</td>
+            <td>
+              <select name="" id="">
+                <option value="">Tehran</option>
+                <option value="">Mashad</option>
+                <option value="">Isfahan</option>
+                <option value="">Arak</option>
+                <option value="">Shiraz</option>
+                <option value="" selected>Tabriz</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 150px" valign="top">Hometown:</td>
+            <td>
+              <select name="" id="">
+                <optgroup label="Hometown01">
+                  <option value="">City01 from Hm01</option>
+                  <option value="">City02 from Hm01</option>
+                  <option value="">City03 from Hm01</option>
+                </optgroup>
+                <optgroup label="Hometown02">
+                  <option value="">City01 from Hm02</option>
+                  <option value="">City02 from Hm02</option>
+                  <option value="">City03 from Hm02</option>
+                </optgroup>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 150px" valign="top">
+              <label for="">Favorits:</label>
+            </td>
+            <td>
+              <input type="checkbox" checked />Music
+              <input type="checkbox" />Game <input type="checkbox" />Travel
+              <input type="checkbox" />Movie
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 150px" valign="top">Documents:</td>
+            <td>
+              <input type="file" />
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2" align="center">
+              <input type="submit" value="Submit" />
+              <input type="reset" value="Restart" />
+            </td>
+          </tr>
+          <input type="hidden" />
+        </table>
+      </form>
+    </fieldset>
