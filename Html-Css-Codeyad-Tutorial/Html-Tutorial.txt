@@ -458,3 +458,6 @@ how to?
 3-<meta name='keywords' content='name'>; u can add attributname and keywords and content attribut to mark the keywords on ur webiste,
 4-<meta name='discription' content='name'>; u can add discription for ur website with this shape and write ur discription part on ur contentc
 5-<meta name="author" content="Ali" />; for developers u can add ur name and whatever related to u here
+
+<----===========------>
+
