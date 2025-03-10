@@ -290,3 +290,18 @@ ex;
 <iframe></iframe>;it has a src attribut to get acess to the link to be able to show it, also u can style it.
 
 <----===========------>
+
+***imp***
+.Form;<form></form>;it has attribut of action it is a address that info will send is written in action
+.input;<input>its input of user,it has type attribute.
+ex;
+ <form action="">
+      Name: <br />
+      <input type="text" /> <br />
+      lastname: <br />
+      <input type="text" />
+ </form>
+
+.attribute in form & input & select and ...:
+.maxlength;the maxiumu length that an input can take
+.placeholder;what its wite in input as highlighted
