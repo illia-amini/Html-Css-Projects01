@@ -304,13 +304,22 @@ ex;
 
 .attribute in form & input & select and ...:
 
-.1-maxlength( in input);the maxiumu length that an input can take
+.1-maxlength( in input);the maxiumu length that an input can take just good to use in username input
 .2-placeholder(in input);what its wite in input as highlighted
 .3-<fieldset></fieldset>;always put ur form tag in fieldset
 .4-<legend></legend>;write after fieldset and put ur name of form inside of it
-.5-(in )
-.6-(in )
-
+.5-align(in any node); u can center any tag by using align=center
+.6- <textarea></textarea>; fo user adress its much better to use text area and also giv attribute of (row & col) to define how many columns a nd rows u want.
+.7-input type='radio'; to select between some option is used just there is a tip to use of this attribute that for how many input with this attribute u have
+use also attribute of name='' and give same str or name to all options,otherwice user can select all options.
+.8-<label></label>;if uwant to write sm next to input u should put label tag and wite it there.
+.9-valign=center/top/bottom/left/right; yhi is ued in td to convert the position of td useully text.
+.10-<optgroup></optgroup>;it is used to sortinh ur options in categories ig is sorted reguraly and u can write ur option in this tag,
+.11-input type='checkbox';it also use in the case u have many option to choose, and also u can add checked attribute in the input u want its checked,
+.12-input type='file'; to insert any document of user in ur website.
+.13-input type='submit'; to submit ur form use this
+.14-input type='restart'; to restart ur docs use this
+.15-selected; its used in option, which u want a option was chosen from past.
 ***imp***
 ex;
 <fieldset>
