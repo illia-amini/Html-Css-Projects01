@@ -243,8 +243,8 @@ ex;
           <td colspan="2">footer</td>
         </tr>
       </tfoot>
-    </table>
-    
+</table>
+
 <----===========------>
 
 .List<list>
